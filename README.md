@@ -6,4 +6,8 @@ public static void main (String[] args)
 {
 System.out.printIn("Hello");
 }
+public class PCR
+{
+      private test;
+}
 }
